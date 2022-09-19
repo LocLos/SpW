@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5cc67da8f59708e498c1a59ad44cda18
+  m_SerializeEntries:
+  - m_GUID: e3aa75fd67bd869409dd46f445a25fe5
+    m_Address: UglyMan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3586b6660b10a094685e5657bd1679f2
+    m_Address: EvillTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cc754db77c75bb409ac61ec507832e8
+    m_Address: ToothMonster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e01fc17a57348674d9fe6e793a24edc8
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 233d38b235d80a14081505c502c65f1e
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73676b07ab440144cbcbf4260d0ed5f9
+    m_Address: EnemySpawner_Lvl_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8af469f5e511bd648a0948669dc8c460
+    m_Address: Loot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 13727d39d0bdf694094193bd0fed0742, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a9ed7b4c893856e4498ae1612a8a9c58, type: 2}
+    - {fileID: 11400000, guid: 8a422ad9726040941857485177173f30, type: 2}
